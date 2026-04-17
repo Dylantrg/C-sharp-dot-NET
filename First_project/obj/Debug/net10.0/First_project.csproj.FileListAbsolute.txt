@@ -1,0 +1,15 @@
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\First_project\bin\Debug\net10.0\First_project.exe
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\First_project\bin\Debug\net10.0\First_project.deps.json
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\First_project\bin\Debug\net10.0\First_project.runtimeconfig.json
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\First_project\bin\Debug\net10.0\First_project.dll
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\First_project\bin\Debug\net10.0\First_project.pdb
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\First_project\obj\Debug\net10.0\First_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\First_project\obj\Debug\net10.0\First_project.AssemblyInfoInputs.cache
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\First_project\obj\Debug\net10.0\First_project.AssemblyInfo.cs
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\First_project\obj\Debug\net10.0\First_project.csproj.CoreCompileInputs.cache
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\First_project\obj\Debug\net10.0\First_project.sourcelink.json
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\First_project\obj\Debug\net10.0\First_project.dll
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\First_project\obj\Debug\net10.0\refint\First_project.dll
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\First_project\obj\Debug\net10.0\First_project.pdb
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\First_project\obj\Debug\net10.0\First_project.genruntimeconfig.cache
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\First_project\obj\Debug\net10.0\ref\First_project.dll
