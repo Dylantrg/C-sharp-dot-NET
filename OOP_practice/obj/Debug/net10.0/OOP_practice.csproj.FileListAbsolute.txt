@@ -1,0 +1,15 @@
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\OOP_practice\bin\Debug\net10.0\OOP_practice.exe
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\OOP_practice\bin\Debug\net10.0\OOP_practice.deps.json
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\OOP_practice\bin\Debug\net10.0\OOP_practice.runtimeconfig.json
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\OOP_practice\bin\Debug\net10.0\OOP_practice.dll
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\OOP_practice\bin\Debug\net10.0\OOP_practice.pdb
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\OOP_practice\obj\Debug\net10.0\OOP_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\OOP_practice\obj\Debug\net10.0\OOP_practice.AssemblyInfoInputs.cache
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\OOP_practice\obj\Debug\net10.0\OOP_practice.AssemblyInfo.cs
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\OOP_practice\obj\Debug\net10.0\OOP_practice.csproj.CoreCompileInputs.cache
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\OOP_practice\obj\Debug\net10.0\OOP_practice.sourcelink.json
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\OOP_practice\obj\Debug\net10.0\OOP_practice.dll
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\OOP_practice\obj\Debug\net10.0\refint\OOP_practice.dll
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\OOP_practice\obj\Debug\net10.0\OOP_practice.pdb
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\OOP_practice\obj\Debug\net10.0\OOP_practice.genruntimeconfig.cache
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\OOP_practice\obj\Debug\net10.0\ref\OOP_practice.dll
