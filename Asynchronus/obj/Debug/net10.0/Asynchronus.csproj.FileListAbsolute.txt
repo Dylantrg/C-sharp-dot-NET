@@ -1,0 +1,15 @@
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\Asynchronus\obj\Debug\net10.0\Asynchronus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\Asynchronus\obj\Debug\net10.0\Asynchronus.AssemblyInfoInputs.cache
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\Asynchronus\obj\Debug\net10.0\Asynchronus.AssemblyInfo.cs
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\Asynchronus\obj\Debug\net10.0\Asynchronus.csproj.CoreCompileInputs.cache
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\Asynchronus\obj\Debug\net10.0\Asynchronus.sourcelink.json
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\Asynchronus\bin\Debug\net10.0\Asynchronus.exe
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\Asynchronus\bin\Debug\net10.0\Asynchronus.deps.json
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\Asynchronus\bin\Debug\net10.0\Asynchronus.runtimeconfig.json
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\Asynchronus\bin\Debug\net10.0\Asynchronus.dll
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\Asynchronus\bin\Debug\net10.0\Asynchronus.pdb
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\Asynchronus\obj\Debug\net10.0\Asynchronus.dll
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\Asynchronus\obj\Debug\net10.0\refint\Asynchronus.dll
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\Asynchronus\obj\Debug\net10.0\Asynchronus.pdb
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\Asynchronus\obj\Debug\net10.0\Asynchronus.genruntimeconfig.cache
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\Asynchronus\obj\Debug\net10.0\ref\Asynchronus.dll
