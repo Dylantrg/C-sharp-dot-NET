@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="Asynchronus/Asynchronus.csproj" />
   <Project Path="First_project/First_project.csproj" />
+  <Project Path="OOP_practice/OOP_practice.csproj" />
 </Solution>
