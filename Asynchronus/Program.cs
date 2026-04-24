@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Threading;
 using System.Threading.Tasks;
-
+using static API_fetch;
+using static Product;
 public class Asynchronous
 {
     public async Task Download1()
@@ -23,5 +24,10 @@ public async Task Download2()
         Task task2 = test.Download2();
         await Task.WhenAll(task1, task2);    
         Console.WriteLine("Downloaded");
+
+        API_fetch api = new API_fetch();
+        Console.WriteLine("Fetching products...");
+        await api.Display();
+        Console.WriteLine("Products fetched");
     }
 }
