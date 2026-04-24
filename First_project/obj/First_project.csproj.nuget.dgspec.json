@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ducdu\\OneDrive\\Desktop\\C-sharp-dot-NET\\First_project\\First_project.csproj": {}
+    "C:\\Users\\ducdu\\OneDrive - UNSW\\Desktop\\C-sharp-dot-NET\\First_project\\First_project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ducdu\\OneDrive\\Desktop\\C-sharp-dot-NET\\First_project\\First_project.csproj": {
+    "C:\\Users\\ducdu\\OneDrive - UNSW\\Desktop\\C-sharp-dot-NET\\First_project\\First_project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ducdu\\OneDrive\\Desktop\\C-sharp-dot-NET\\First_project\\First_project.csproj",
+        "projectUniqueName": "C:\\Users\\ducdu\\OneDrive - UNSW\\Desktop\\C-sharp-dot-NET\\First_project\\First_project.csproj",
         "projectName": "First_project",
-        "projectPath": "C:\\Users\\ducdu\\OneDrive\\Desktop\\C-sharp-dot-NET\\First_project\\First_project.csproj",
+        "projectPath": "C:\\Users\\ducdu\\OneDrive - UNSW\\Desktop\\C-sharp-dot-NET\\First_project\\First_project.csproj",
         "packagesPath": "C:\\Users\\ducdu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ducdu\\OneDrive\\Desktop\\C-sharp-dot-NET\\First_project\\obj\\",
+        "outputPath": "C:\\Users\\ducdu\\OneDrive - UNSW\\Desktop\\C-sharp-dot-NET\\First_project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

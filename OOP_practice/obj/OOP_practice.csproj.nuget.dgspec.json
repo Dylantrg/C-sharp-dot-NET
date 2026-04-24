@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ducdu\\OneDrive\\Desktop\\C-sharp-dot-NET\\OOP_practice\\OOP_practice.csproj": {}
+    "C:\\Users\\ducdu\\OneDrive - UNSW\\Desktop\\C-sharp-dot-NET\\OOP_practice\\OOP_practice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ducdu\\OneDrive\\Desktop\\C-sharp-dot-NET\\OOP_practice\\OOP_practice.csproj": {
+    "C:\\Users\\ducdu\\OneDrive - UNSW\\Desktop\\C-sharp-dot-NET\\OOP_practice\\OOP_practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ducdu\\OneDrive\\Desktop\\C-sharp-dot-NET\\OOP_practice\\OOP_practice.csproj",
+        "projectUniqueName": "C:\\Users\\ducdu\\OneDrive - UNSW\\Desktop\\C-sharp-dot-NET\\OOP_practice\\OOP_practice.csproj",
         "projectName": "OOP_practice",
-        "projectPath": "C:\\Users\\ducdu\\OneDrive\\Desktop\\C-sharp-dot-NET\\OOP_practice\\OOP_practice.csproj",
+        "projectPath": "C:\\Users\\ducdu\\OneDrive - UNSW\\Desktop\\C-sharp-dot-NET\\OOP_practice\\OOP_practice.csproj",
         "packagesPath": "C:\\Users\\ducdu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ducdu\\OneDrive\\Desktop\\C-sharp-dot-NET\\OOP_practice\\obj\\",
+        "outputPath": "C:\\Users\\ducdu\\OneDrive - UNSW\\Desktop\\C-sharp-dot-NET\\OOP_practice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
