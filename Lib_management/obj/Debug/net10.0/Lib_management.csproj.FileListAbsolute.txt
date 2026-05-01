@@ -1,0 +1,15 @@
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\Lib_management\bin\Debug\net10.0\Lib_management.exe
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\Lib_management\bin\Debug\net10.0\Lib_management.deps.json
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\Lib_management\bin\Debug\net10.0\Lib_management.runtimeconfig.json
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\Lib_management\bin\Debug\net10.0\Lib_management.dll
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\Lib_management\bin\Debug\net10.0\Lib_management.pdb
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\Lib_management\obj\Debug\net10.0\Lib_management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\Lib_management\obj\Debug\net10.0\Lib_management.AssemblyInfoInputs.cache
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\Lib_management\obj\Debug\net10.0\Lib_management.AssemblyInfo.cs
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\Lib_management\obj\Debug\net10.0\Lib_management.csproj.CoreCompileInputs.cache
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\Lib_management\obj\Debug\net10.0\Lib_management.sourcelink.json
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\Lib_management\obj\Debug\net10.0\Lib_management.dll
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\Lib_management\obj\Debug\net10.0\refint\Lib_management.dll
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\Lib_management\obj\Debug\net10.0\Lib_management.pdb
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\Lib_management\obj\Debug\net10.0\Lib_management.genruntimeconfig.cache
+C:\Users\ducdu\OneDrive\Desktop\C-sharp-dot-NET\Lib_management\obj\Debug\net10.0\ref\Lib_management.dll
